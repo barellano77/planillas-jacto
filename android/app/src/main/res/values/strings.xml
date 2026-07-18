@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Planillas Jacto</string>
+    <string name="title_activity_main">Planillas Jacto</string>
+    <string name="package_name">ar.com.jactoargentina.planillas</string>
+    <string name="custom_url_scheme">ar.com.jactoargentina.planillas</string>
+</resources>

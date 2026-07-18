@@ -1,0 +1,13 @@
+node_modules
+dist
+android
+resources
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+.git
+.gitignore
+.vscode
+.idea
